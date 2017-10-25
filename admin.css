@@ -1,0 +1,28 @@
+body{
+	background-color: #2f4050;
+}
+.col-md-10{
+	background-color: #ffffff;
+}
+#sidemenu a{
+	color: #9fb1c2;
+}
+#sidemenu .active a{
+	color:#ffffff;
+	background-color: #27AAE1;
+	font-weight: bold;
+
+}
+#sidemenu a:hover{
+	color: #ffffff;
+	font-weight: bold;
+	background-color: #1AB394;
+	display: block;
+}
+#footer{
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eeeeee;
+	text-align: center;
+	background-color: #211f22;
+}
